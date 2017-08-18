@@ -1,2 +1,2 @@
-# Link-resources
+# Link resources
 I keep linked files in this repository.
