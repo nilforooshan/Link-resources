@@ -1,32 +1,33 @@
 # Sed & Awk Gists  
-[See a range of lines](https://gist.github.com/nilforooshan/7c017b2c860f4a0ed097ed303067b031 "see_range_lines.md")  
-[Remove empty/blank lines in a file](https://gist.github.com/nilforooshan/552877beaab052495a8e44d89440a4ab "rm_empty_lines.md")  
-[See a line by number-Sed](https://gist.github.com/nilforooshan/936ab8de0a73f084c9161ea154ba1022 "see_line_number_sed.md")  
-[See a line by number-Awk](https://gist.github.com/nilforooshan/0c0f59b4b9345fbc24d303e784c63544 "see_line_number_awk.md")  
-[Get row number if the pattern in a column matches](https://gist.github.com/nilforooshan/32ddbd12a426afd1393947b7c493fb72 "row_num_pattern_match_column.md")  
-[Grep lines containing a pattern in a column](https://gist.github.com/nilforooshan/97ff0428e02aa813fbe04b41111eedbf "grep_lines_pattern_match_column.md")  
-[Example of adding text to the first line](https://gist.github.com/nilforooshan/92099da594e26500be2b009758baf34f "insert_line_beginning.md")  
-[Sum of a column](https://gist.github.com/nilforooshan/7cd7dd24bde3f81be1466d4134a116a1 "sum_col.md")  
-[Delete the last line from a file](https://gist.github.com/nilforooshan/a19529701edabeac385c7b6857787795 "rm_last_line.md")  
-[Print the last columns](https://gist.github.com/nilforooshan/59f36d868b6f0502a054715c2c5b29d1 "print_last_col.md")  
-[Printing chosen columns](https://gist.github.com/nilforooshan/12eda639842e8bb3aaf678e60843008d "print_chosen_cols.md")  
-[Delete a column from a file](https://gist.github.com/nilforooshan/7a39b3430fcac74944e89cf52e01be93 "rm_col.md")  
-[Get average of a column](https://gist.github.com/nilforooshan/350ba6b86340c1fbd57d9477a10b6bc7 "mean_col.md")  
-[Add new fixed columns to the file](https://gist.github.com/nilforooshan/a994ad7b71d9043cea64cf25d7a027b6 "add_new_fixed_col.md")  
-[Count frequency of an element in a column](https://gist.github.com/nilforooshan/69cc03a076904bc49ac9bec3874d4a60 " count_freq_element_in_col.md")  
-[Count word frequencies in a file, output sorted alphabetically](https://gist.github.com/nilforooshan/223b30543de5796c5e188e78a9ff9d3c " count_word_freq.md")  
-[MIN and MAX of a column](https://gist.github.com/nilforooshan/f9958b108a866a75e53bbdbfcbb4bf5b " min_max_col.md")  
-[Sed find & replace](https://gist.github.com/nilforooshan/fe6751bbec1e55c1137291f67016b6e6 " find_replace_sed.md")  
-[Get the number of columns](https://gist.github.com/nilforooshan/3e42b6226af5b57392d8e4bcea0ab2af "get_num_cols.md")  
-[Write a table from a data file](https://gist.github.com/nilforooshan/8384a5cdb69df1719c361d42f7f9ea19 " datafile2table.md")  
-[Get odd and even lines-awk](https://gist.github.com/nilforooshan/58a84b0d5c94fe601c0c7ea3546d800f "get_odd_even_lines_awk.md")  
-[Get odd and even lines-sed](https://gist.github.com/nilforooshan/2a7c1687c3fce246197290791cd61901 " get_odd_even_lines_sed.md")  
-[Delete lines by line numbers](https://gist.github.com/nilforooshan/75251a13b0700d077a1b6c2963c0d476 "rm_lines_by_num_awk.md")  
-[Delete lines by line numbers](https://gist.github.com/nilforooshan/945d03bd1ed264d223a4ff3af8f6030d "rm_lines_by_num_sed.md")  
-[Delete lines containing a pattern](https://gist.github.com/nilforooshan/c1a4dfe6805c72cab25e9ced6159aa57 " rm_lines_pattern.md")  
-[Add text to the beginning of all lines](https://gist.github.com/nilforooshan/ef1dcaec4464d11a6432deabd8aa632a "add_text_beginning_all_lines.md")  
-[Add text to the end of all lines](https://gist.github.com/nilforooshan/a80cae724102913c5faba970931420ea "add_text_end_all_lines.md")  
-[Get a line number in a file, then grep it in another file](https://gist.github.com/nilforooshan/33b8aa70b297d176de65e574524a091c "get_line_num_in_one_grep_in_another.md")  
-[No repeated correlations](https://gist.github.com/nilforooshan/5bb0457018f80f6c5d2ebed07872e991 "no_rep_cor.md")  
-[Replace at a specific position](https://gist.github.com/nilforooshan/ec0a754114d50f5cbffc2f18f14892b1 "replace_at_specific_pos.md")  
-[Awk find & replace](https://gist.github.com/nilforooshan/19107fe4794596028a0fd6c425cd6c31 " awk_find_replace.md")  
+Secret Gists are *italic*.  
+*[See a range of lines](https://gist.github.com/nilforooshan/7c017b2c860f4a0ed097ed303067b031 "see_range_lines.md")*  
+*[Remove empty/blank lines in a file](https://gist.github.com/nilforooshan/552877beaab052495a8e44d89440a4ab "rm_empty_lines.md")*  
+*[See a line by number-Sed](https://gist.github.com/nilforooshan/936ab8de0a73f084c9161ea154ba1022 "see_line_number_sed.md")*  
+*[See a line by number-Awk](https://gist.github.com/nilforooshan/0c0f59b4b9345fbc24d303e784c63544 "see_line_number_awk.md")*  
+*[Get row number if the pattern in a column matches](https://gist.github.com/nilforooshan/32ddbd12a426afd1393947b7c493fb72 "row_num_pattern_match_column.md")*  
+*[Grep lines containing a pattern in a column](https://gist.github.com/nilforooshan/97ff0428e02aa813fbe04b41111eedbf "grep_lines_pattern_match_column.md")*  
+*[Example of adding text to the first line](https://gist.github.com/nilforooshan/92099da594e26500be2b009758baf34f "insert_line_beginning.md")*  
+*[Sum of a column](https://gist.github.com/nilforooshan/7cd7dd24bde3f81be1466d4134a116a1 "sum_col.md")*  
+*[Delete the last line from a file](https://gist.github.com/nilforooshan/a19529701edabeac385c7b6857787795 "rm_last_line.md")*  
+*[Print the last columns](https://gist.github.com/nilforooshan/59f36d868b6f0502a054715c2c5b29d1 "print_last_col.md")*  
+*[Printing chosen columns](https://gist.github.com/nilforooshan/12eda639842e8bb3aaf678e60843008d "print_chosen_cols.md")*  
+*[Delete a column from a file](https://gist.github.com/nilforooshan/7a39b3430fcac74944e89cf52e01be93 "rm_col.md")*  
+*[Get average of a column](https://gist.github.com/nilforooshan/350ba6b86340c1fbd57d9477a10b6bc7 "mean_col.md")*  
+*[Add new fixed columns to the file](https://gist.github.com/nilforooshan/a994ad7b71d9043cea64cf25d7a027b6 "add_new_fixed_col.md")*  
+*[Count frequency of an element in a column](https://gist.github.com/nilforooshan/69cc03a076904bc49ac9bec3874d4a60 " count_freq_element_in_col.md")*  
+*[Count word frequencies in a file, output sorted alphabetically](https://gist.github.com/nilforooshan/223b30543de5796c5e188e78a9ff9d3c " count_word_freq.md")*  
+*[MIN and MAX of a column](https://gist.github.com/nilforooshan/f9958b108a866a75e53bbdbfcbb4bf5b " min_max_col.md")*  
+*[Sed find & replace](https://gist.github.com/nilforooshan/fe6751bbec1e55c1137291f67016b6e6 " find_replace_sed.md")*  
+*[Get the number of columns](https://gist.github.com/nilforooshan/3e42b6226af5b57392d8e4bcea0ab2af "get_num_cols.md")*  
+*[Write a table from a data file](https://gist.github.com/nilforooshan/8384a5cdb69df1719c361d42f7f9ea19 " datafile2table.md")*  
+*[Get odd and even lines-awk](https://gist.github.com/nilforooshan/58a84b0d5c94fe601c0c7ea3546d800f "get_odd_even_lines_awk.md")*  
+*[Get odd and even lines-sed](https://gist.github.com/nilforooshan/2a7c1687c3fce246197290791cd61901 " get_odd_even_lines_sed.md")*  
+*[Delete lines by line numbers](https://gist.github.com/nilforooshan/75251a13b0700d077a1b6c2963c0d476 "rm_lines_by_num_awk.md")*  
+*[Delete lines by line numbers](https://gist.github.com/nilforooshan/945d03bd1ed264d223a4ff3af8f6030d "rm_lines_by_num_sed.md")*  
+*[Delete lines containing a pattern](https://gist.github.com/nilforooshan/c1a4dfe6805c72cab25e9ced6159aa57 " rm_lines_pattern.md")*  
+*[Add text to the beginning of all lines](https://gist.github.com/nilforooshan/ef1dcaec4464d11a6432deabd8aa632a "add_text_beginning_all_lines.md")*  
+*[Add text to the end of all lines](https://gist.github.com/nilforooshan/a80cae724102913c5faba970931420ea "add_text_end_all_lines.md")*  
+*[Get a line number in a file, then grep it in another file](https://gist.github.com/nilforooshan/33b8aa70b297d176de65e574524a091c "get_line_num_in_one_grep_in_another.md")*  
+*[No repeated correlations](https://gist.github.com/nilforooshan/5bb0457018f80f6c5d2ebed07872e991 "no_rep_cor.md")*  
+*[Replace at a specific position](https://gist.github.com/nilforooshan/ec0a754114d50f5cbffc2f18f14892b1 "replace_at_specific_pos.md")*  
+*[Awk find & replace](https://gist.github.com/nilforooshan/19107fe4794596028a0fd6c425cd6c31 " awk_find_replace.md")*  

@@ -1,4 +1,5 @@
-# Python Gists
+# Python Gists  
+Secret Gists are *italic*.  
 [R function rep() equivalent in Python](https://gist.github.com/nilforooshan/c05a17b15213f2f8fe9499accbc38978 "rep_in_py.md")  
 [A subset of a list with elements available in another list](https://gist.github.com/nilforooshan/e4f0c2aa4a82f936e5292741f6c335ef "subset_list_elements_in_other.md")  
 [Write a csv file from console input](https://gist.github.com/nilforooshan/27efd669119e6f1912ca42ba8b595562 "write_csv_console_input.md")  
