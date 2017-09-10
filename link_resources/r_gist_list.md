@@ -99,3 +99,5 @@ Secret Gists are *italic*.
 *[Barplot with error bars](https://gist.github.com/nilforooshan/1cbb09f7b729de2da269904ce812b9cb "barplot_error_bars.md")*  
 *[Smooth heatmap with topological lines](https://gist.github.com/nilforooshan/32f1495000b2f76e6a3f33ffde0f9699 "smooth_heatmap_topo_lines.md")*  
 [LRS's R function to get A-inverse matrix](https://gist.github.com/nilforooshan/6c5d4bf8c2c60284134aadfcab907c46 "AinvLRS.R")  
+*[Extract first elements in a list of vectors](https://gist.github.com/nilforooshan/28334084227283053e47560e2859ad8e "1st_list_of_vectors.md")*  
+*[Extract first elements in a list of lists](https://gist.github.com/nilforooshan/73c147479f4d900c9c24d0c5e53cce3f "1st_list_of_lists.md")*  
