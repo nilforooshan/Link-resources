@@ -22,8 +22,8 @@ Secret Gists are *italic*.
 *[Write a table from a data file](https://gist.github.com/nilforooshan/8384a5cdb69df1719c361d42f7f9ea19 " datafile2table.md")*  
 *[Get odd and even lines-awk](https://gist.github.com/nilforooshan/58a84b0d5c94fe601c0c7ea3546d800f "get_odd_even_lines_awk.md")*  
 *[Get odd and even lines-sed](https://gist.github.com/nilforooshan/2a7c1687c3fce246197290791cd61901 " get_odd_even_lines_sed.md")*  
-*[Delete lines by line numbers](https://gist.github.com/nilforooshan/75251a13b0700d077a1b6c2963c0d476 "rm_lines_by_num_awk.md")*  
-*[Delete lines by line numbers](https://gist.github.com/nilforooshan/945d03bd1ed264d223a4ff3af8f6030d "rm_lines_by_num_sed.md")*  
+*[Delete lines by line numbers-awk](https://gist.github.com/nilforooshan/75251a13b0700d077a1b6c2963c0d476 "rm_lines_by_num_awk.md")*  
+*[Delete lines by line numbers-sed](https://gist.github.com/nilforooshan/945d03bd1ed264d223a4ff3af8f6030d "rm_lines_by_num_sed.md")*  
 *[Delete lines containing a pattern](https://gist.github.com/nilforooshan/c1a4dfe6805c72cab25e9ced6159aa57 " rm_lines_pattern.md")*  
 *[Add text to the beginning of all lines](https://gist.github.com/nilforooshan/ef1dcaec4464d11a6432deabd8aa632a "add_text_beginning_all_lines.md")*  
 *[Add text to the end of all lines](https://gist.github.com/nilforooshan/a80cae724102913c5faba970931420ea "add_text_end_all_lines.md")*  
