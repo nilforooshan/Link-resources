@@ -1,5 +1,6 @@
 # R Gists  
 Secret Gists are *italic*.  
+[hh:mm:ss to ss & ss to hh:mm:ss](https://gist.github.com/nilforooshan/69a8a2378fcf96922e06fa808b37c753 "time2sec_sec2time.md")  
 [A short R script to find halfsibs in a pedigree](https://gist.github.com/nilforooshan/8c3232ac6cc487a73bd5c2c02518ba79 "halfsibs.R")  
 [A short R script to find halfsibs in a pedigree](https://gist.github.com/nilforooshan/86e69ddb08fc3a0a757a99a5c0724663 "fullsibs.R")  
 [Renumbering pedigree-with birthdates](https://gist.github.com/nilforooshan/a2cb37d6204ec7f936bc27ae73b9dcce "pedrenum_birthdate.md")  
