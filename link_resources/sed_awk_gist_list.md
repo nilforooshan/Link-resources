@@ -31,3 +31,4 @@ Secret Gists are *italic*.
 *[No repeated correlations](https://gist.github.com/nilforooshan/5bb0457018f80f6c5d2ebed07872e991 "no_rep_cor.md")*  
 *[Replace at a specific position](https://gist.github.com/nilforooshan/ec0a754114d50f5cbffc2f18f14892b1 "replace_at_specific_pos.md")*  
 *[Awk find & replace](https://gist.github.com/nilforooshan/19107fe4794596028a0fd6c425cd6c31 " awk_find_replace.md")*  
+*[Drop the last character of a string](https://gist.github.com/nilforooshan/30899b6a694e6f042ac027df62b7edb2 " drop_last_character.md ")*  
