@@ -10,6 +10,7 @@
 [R function to extract pedigree for selected animals](https://gist.github.com/nilforooshan/3fe365c4f17a8b25e466dc3003442a59 "ExtractPed.md")  
 [R function to deduct times](https://gist.github.com/nilforooshan/ab1c5c26164f4fb072a80e100864e79d "deducttimes.md")  
 [R function to sum times](https://gist.github.com/nilforooshan/606380965a241ba1fae268b9622e8bdb "sumtimes.md")  
+[Export Bash variables to R](https://gist.github.com/nilforooshan/6c5f9940722e7c20cab246777d526b05 "exp_Bashvar2R.md")  
 [Generating correlated variables with defined parameters](https://gist.github.com/nilforooshan/f65999aa3831c1cde4b3f879858b0b82 "correlated_variables.md")  
 [R function for printing Lower-diag (with/without diags) of a matrix](https://gist.github.com/nilforooshan/5bcc32de298296b59ecbe9b6acae017f "print_lower_diag.md")  
 [Wighted/Un-weighted bending](https://gist.github.com/nilforooshan/fc482719c0d67e4fadcba469ea665352 "mbending.R")  
