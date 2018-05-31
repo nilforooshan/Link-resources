@@ -48,7 +48,6 @@
 [Replace special characters](https://gist.github.com/nilforooshan/b6df879c1ef2a774f82104f881a52413 "replace_special_characters.md")  
 [Convert a data.frame to a list (row-wise)](https://gist.github.com/nilforooshan/076dd8e4b82bbd0389792764706011e2 "dataframe2list.md")  
 [Avoid scientific printing (e- | e+)](https://gist.github.com/nilforooshan/d278fce75b56b1b078a3b4ec25c2ba9d "avoid_sci_print.md")  
-[Export Bash variables to R](https://gist.github.com/nilforooshan/6c5f9940722e7c20cab246777d526b05 "exp_Bashvar2R.md")  
 [cbind data frames with different number of rows](https://gist.github.com/nilforooshan/4c3ab35f72eb4d976dc8ad4c3ff9c7f5 "cbind_diff_nrow.md")  
 [Read data through a SSH tunnel](https://gist.github.com/nilforooshan/5f82a6e8ada744b1e11dbbca871371cc "read_via_ssh.md")  
 [Remove (or replace) everything before or after a specified character in R strings](https://gist.github.com/nilforooshan/88b79c3ba19da561a7479a9a6f011d27 "rm_replace_before_after_character.md")  
