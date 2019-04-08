@@ -2,17 +2,6 @@
 
 ### Compiling Fortran programs
 
-* On Linux:  
-   * Open a terminal  
-   * Compile the program  
-   * `gfortran program.f90 -o compiledprogram`  
-   * Run the compiled program  
-   * `./compiledprogram`  
-* On Windows:  
-  Install GFortran binary package
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oVfAU1ziOjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
-
 Simple examples from the <a href="http://ftp.g95.org/G95Manual.pdf" target="_blank">manual</a>:  
 `gfortran -c hello.f90` compiles `hello.f90` to an object ﬁle named `hello.o`.  
 `gfortran hello.f90` compiles `hello.f90` and links it to produce an executable `a.out` (on Linux), or `a.exe` (on MS Windows systems).  
