@@ -14,5 +14,5 @@
 [![github-release](https://img.shields.io/github/release/nilforooshan/ggroups.svg)](https://github.com/nilforooshan/ggroups)
 ![github-license](https://img.shields.io/github/license/nilforooshan/ggroups.svg)
 [![Rdoc](http://www.rdocumentation.org/badges/version/ggroups)](http://www.rdocumentation.org/packages/ggroups)
-
+[![GitHub contributors](https://img.shields.io/github/contributors/nilforooshan/ggroups.svg)](https://GitHub.com/nilforooshan/ggroups/graphs/contributors/)
 ![last-commit](https://img.shields.io/github/last-commit/nilforooshan/nilforooshan.github.io.svg)
