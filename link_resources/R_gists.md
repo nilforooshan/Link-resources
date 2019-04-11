@@ -84,8 +84,6 @@
 [Given progeny's and mate's genotypes predict the random genotype (MAF <= 0.5),](https://gist.github.com/aa22a07267b8d5fb13b683de5872ae59)   
 [Given progeny's genotype predict parent's random genotype (MAF <= 0.5),](https://gist.github.com/db4a0a8da8bd26f4ef04b81f1c77dacd)   
 [Given genotypes of parents or genotype of one parent predict progeny's random genotype (MAF <= 0.5),](https://gist.github.com/6e47eae6d38eff63a2a91c8594c56c0c)   
-[Number of ascending generations from an animal and the number of parents in each generation,](https://gist.github.com/a41ef2fa586d97b5e6b96b67b1aa5f2c)   
-[Number of descending generations from an animal and the number of progeny in each generation](https://gist.github.com/03934f046c055cee4874d667ec964356)   
 [Convert MiX99 parameter file to matrices](https://gist.github.com/874ec62d2ccafc26b66a89d0bed1d70c)   
 [Convert matrices to MiX99 parameter file](https://gist.github.com/c3b4798aceb4b14545d4c2d85dfda23e)   
 [Re-order MiX99 parameter file (re-ordering traits)](https://gist.github.com/5d556799100653d212fcd9e3a17c882a)   
