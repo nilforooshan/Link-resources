@@ -110,3 +110,4 @@
 [RMarkdown Example](https://gist.github.com/2bd9bbb632e6f79ca79128e5b981c006)   
 [This program gets the list of cores animals for APY and puts them at the top of the genotype file.,](https://gist.github.com/6a9c2a0d09f9916ea446815d0b97452a)   
 [This script gets animal solutions from \solutions\ or \sol_and_acc\ and renumbers animal IDs to origIDs.,](https://gist.github.com/8bfc4563137de1b7ac7dcab03e5639a7)   
+[Install R packages from an online *.tar.gz](https://gist.github.com/nilforooshan/91420420b0c2f2326639ca14f1f1250a)   
