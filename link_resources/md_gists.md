@@ -6,4 +6,4 @@
 
 ## Private
 
-[Markdown Essentials](https://gist.github.com/bb4d75ca5fe82657e5a682ca0affbcfd)   
+[Markdown Extra](https://gist.github.com/bb4d75ca5fe82657e5a682ca0affbcfd)   
