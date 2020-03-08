@@ -14,4 +14,3 @@ I keep linked files and the list of my Gists here, in this repository.
 * [R](https://github.com/nilforooshan/Link-resources/blob/master/Resources/R_gists.md)   
 * [sed](https://github.com/nilforooshan/Link-resources/blob/master/Resources/sed_gists.md)   
 * [bash](https://github.com/nilforooshan/Link-resources/blob/master/Resources/sh_gists.md)   
-* [workflow](https://github.com/nilforooshan/Link-resources/blob/master/Resources/workflow_gists.md)   
