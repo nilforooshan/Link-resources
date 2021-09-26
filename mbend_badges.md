@@ -5,5 +5,4 @@
 [![github-release](https://img.shields.io/github/release/nilforooshan/mbend.svg)](https://github.com/nilforooshan/mbend)
 [![github-license](https://img.shields.io/github/license/nilforooshan/mbend.svg)](https://github.com/nilforooshan/mbend/blob/master/LICENSE)
 [![github-contributors](https://img.shields.io/github/contributors/nilforooshan/mbend.svg)](https://github.com/nilforooshan/mbend/graphs/contributors/)
-[![HitCount](http://hits.dwyl.io/nilforooshan/mbend.svg)](http://hits.dwyl.io/nilforooshan/mbend)
-[![Rdoc](http://www.rdocumentation.org/badges/version/mbend)](http://www.rdocumentation.org/packages/mbend)
+

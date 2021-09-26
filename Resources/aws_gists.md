@@ -14,6 +14,3 @@
 
 ## Private
 
-[RStudio server on EC2](https://gist.github.com/2d077ad4b2e5ccdc659a5280d13c3eeb)   
-[Jump to an EC2 instance through smokescreen](https://gist.github.com/295a199502db0cceab768cf3ed66df35)   
-[Mount S3 bucket to EC2 Ubuntu Instance](https://gist.github.com/bb20714b2db72d04de8cfe220ec1012c)   
