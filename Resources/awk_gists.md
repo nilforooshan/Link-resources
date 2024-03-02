@@ -1,5 +1,6 @@
 # awk gists
 
+* [Filter a file by matching with a column of another file](https://gist.github.com/nilforooshan/bbcccb2707365635b2ea022aab5f8177)   
 * [Discard the 1st row](https://gist.github.com/nilforooshan/236767a8d8570aaf0952f14ff92e17da)   
 * [Replace a column in file with a column from another file](https://gist.github.com/nilforooshan/b74502fc0e25523b45c271678cdf1f24)   
 * [Sum columns of two files](https://gist.github.com/nilforooshan/d212d857fb300fa7c9caa5587dd0c8cb)   

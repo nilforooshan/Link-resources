@@ -1,5 +1,10 @@
 # R gists
 
+* [aggregate with multiple functions](https://gist.github.com/nilforooshan/1c61d26981f28aa04f970dcc0f4925c1)   
+* [Capture the output and write into a file](https://gist.github.com/nilforooshan/0260b203435f5c6240898f21f0f4f235)   
+* [Check which array elements contain alphabets](https://gist.github.com/nilforooshan/a05983eeda6ca79ebe6fd3a8ce03f840)   
+* [Stacked barplot](https://gist.github.com/nilforooshan/0459173d3085021230c78a8cc3b2429b)   
+* [Search vector for pattern](https://gist.github.com/nilforooshan/8db493b2c5dcb243c0c9019c5ce5a573)   
 * [Fill a matrix with indices and values of a data.frame](https://gist.github.com/nilforooshan/95ae3aab431cd54237a64f0c671db960)   
 * [Installing R on Jupyter Notebool](https://gist.github.com/nilforooshan/a34349559a22b916a12d609d655e4df1)   
 * [Define \notin\ (negate %in%) operator](https://gist.github.com/nilforooshan/ee47ae23b5d9bf51b9ebbca230e6a00a)   

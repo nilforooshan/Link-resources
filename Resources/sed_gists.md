@@ -1,5 +1,6 @@
 # sed gists
 
+* [Delete a column from a file](https://gist.github.com/nilforooshan/ccbd825cb8be89ee8ad64eb729b2c5a2)   
 * [Commenting out a range of lines in a file](https://gist.github.com/nilforooshan/4bb5e528d77d8ca8180ed1e7262441c2)   
 * [Using sed with wildcard](https://gist.github.com/nilforooshan/855fcbc0a5e7505bd0c8be949387778e)   
 * [Append to the first line of a file](https://gist.github.com/nilforooshan/1144dd88a186435d70228dace7edc1ca)   
