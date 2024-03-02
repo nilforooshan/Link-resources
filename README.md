@@ -13,7 +13,7 @@ I keep linked files and the list of my Gists here, in this repository.
 * [Python](https://github.com/nilforooshan/Link-resources/blob/master/Resources/py_gists.md)
 * [R](https://github.com/nilforooshan/Link-resources/blob/master/Resources/R_gists.md)
 * [Sed](https://github.com/nilforooshan/Link-resources/blob/master/Resources/sed_gists.md)
-* [Bash](https://github.com/nilforooshan/Link-resources/blob/master/Resources/sh_gists.md)
+* [Shell](https://github.com/nilforooshan/Link-resources/blob/master/Resources/sh_gists.md)
 * [Julia](https://github.com/nilforooshan/Link-resources/blob/master/Resources/julia_gists.md)
 * [C](https://github.com/nilforooshan/Link-resources/blob/master/Resources/C_gists.md)
 * [Miscellaneous](https://github.com/nilforooshan/Link-resources/blob/master/Resources/misc_gists.md)

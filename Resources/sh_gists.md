@@ -77,4 +77,3 @@
 * [chmod and permission](https://gist.github.com/nilforooshan/6ffb6d6062bdb867d7cb385ff15686e6)   
 * [Batch renaming files](https://gist.github.com/nilforooshan/8830ca845c0daab3e0450138df8eabfd)   
 * [swap file](https://gist.github.com/nilforooshan/254767409a8b979eb23a5ca343a9b48c)   
-* [This script gives the 1st-line length of a file. Run ./llength.sh filename. The 1st on-screen line shows tens length the 2nd line shows ones length and the 3rd line shows the 1st line of the file.](https://gist.github.com/nilforooshan/2b1c7a57dc5b013115584158942b3b01)   
