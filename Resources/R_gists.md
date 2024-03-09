@@ -1,5 +1,8 @@
 # R gists
 
+* [Add a non-linear regression line to a scatterplot](https://gist.github.com/nilforooshan/6960a57e9683523f847ac985cb7c688e)   
+* [RCurl to read data from the web](https://gist.github.com/nilforooshan/1379921691b85c99008cacead18e344c)   
+* [Update installed R packages](https://gist.github.com/nilforooshan/a7762be5fa6338e9ad445121d83b0b8b)   
 * [aggregate with multiple functions](https://gist.github.com/nilforooshan/1c61d26981f28aa04f970dcc0f4925c1)   
 * [Capture the output and write into a file](https://gist.github.com/nilforooshan/0260b203435f5c6240898f21f0f4f235)   
 * [Check which array elements contain alphabets](https://gist.github.com/nilforooshan/a05983eeda6ca79ebe6fd3a8ce03f840)   

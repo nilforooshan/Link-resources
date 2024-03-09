@@ -1,5 +1,8 @@
 # sed gists
 
+* [Replace empty lines with a string](https://gist.github.com/nilforooshan/171e8b7a15c19f65303fd8d3d66c8191)   
+* [Delete everything after a certain pattern in a file](https://gist.github.com/nilforooshan/62423d7f25268b6f36a1d1902588d692)   
+* [Delete commented lines in a file](https://gist.github.com/nilforooshan/3578bd8edfdf123b5fd2040a8757cb55)   
 * [Delete a column from a file](https://gist.github.com/nilforooshan/ccbd825cb8be89ee8ad64eb729b2c5a2)   
 * [Commenting out a range of lines in a file](https://gist.github.com/nilforooshan/4bb5e528d77d8ca8180ed1e7262441c2)   
 * [Using sed with wildcard](https://gist.github.com/nilforooshan/855fcbc0a5e7505bd0c8be949387778e)   
