@@ -11,7 +11,7 @@ jobs:
   build-and-update:
     runs-on: ubuntu-latest
     env:
-      Ngist: 360 # NOTE: Edit this!
+      Ngist: 364 # NOTE: Update this!
       GITHUB_TOKEN: ${{ secrets.SECRET_TOKEN }}
     steps:
       - name: Checkout the repository
@@ -26,7 +26,6 @@ jobs:
           grep html_url    publicgists.json | sed -e 's/\"//g' -e 's/,//' -e 's/ //g' -e 's/html_url://' | sed "/nilforooshan$/d" > url
           grep description publicgists.json | sed -e 's/\"//g' -e 's/,//' -e 's/;//' -e 's/    description: //' > description
           paste -d';' description url | sed 's/;/](/' | sed 's/^/[/' | sed 's/$/)   /' | sed 's/^/* /' > gists.md
-          mkdir -p Resources
           # R
           echo "# R gists" > Resources/R_gists.md # Heading
           echo >> Resources/R_gists.md # Blank line
