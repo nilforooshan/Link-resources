@@ -94,4 +94,4 @@ jobs:
           git config --global user.name "nilforooshan"
           git add .
           git commit -m "Auto-updated by ListGists's GitHub Actions"
-          # git push
+          git push
