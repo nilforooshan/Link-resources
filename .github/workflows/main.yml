@@ -1,0 +1,97 @@
+name: Update the repository for new public gists
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/*"
+
+jobs:
+  build-and-update:
+    runs-on: ubuntu-latest
+    env:
+      Ngist: 360 # NOTE: Edit this!
+      GITHUB_TOKEN: ${{ secrets.SECRET_TOKEN }}
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+      - name: List gists in markdown files
+        run: |
+          END=$(($Ngist/50+1))
+          for i in $(eval echo "{1..$END}")
+          do
+              curl -s "https://api.github.com/users/nilforooshan/gists?&page=$i&per_page=50" >> publicgists.json
+          done
+          grep html_url    publicgists.json | sed -e 's/\"//g' -e 's/,//' -e 's/ //g' -e 's/html_url://' | sed "/nilforooshan$/d" > url
+          grep description publicgists.json | sed -e 's/\"//g' -e 's/,//' -e 's/;//' -e 's/    description: //' > description
+          paste -d';' description url | sed 's/;/](/' | sed 's/^/[/' | sed 's/$/)   /' | sed 's/^/* /' > gists.md
+          mkdir -p Resources
+          # R
+          echo "# R gists" > Resources/R_gists.md # Heading
+          echo >> Resources/R_gists.md # Blank line
+          grep "R:" gists.md >> Resources/R_gists.md # List the gists
+          sed -i "s/R: //g" Resources/R_gists.md # Remove the tag
+          # sh
+          echo "# sh gists" > Resources/sh_gists.md # Heading
+          echo >> Resources/sh_gists.md # Blank line
+          grep "sh:" gists.md >> Resources/sh_gists.md # List the gists
+          sed -i "s/sh: //g" Resources/sh_gists.md # Remove the tag
+          # sed
+          echo "# sed gists" > Resources/sed_gists.md # Heading
+          echo >> Resources/sed_gists.md # Blank line
+          grep "sed:" gists.md >> Resources/sed_gists.md # List the gists
+          sed -i "s/sed: //g" Resources/sed_gists.md # Remove the tag
+          # awk
+          echo "# awk gists" > Resources/awk_gists.md # Heading
+          echo >> Resources/awk_gists.md # Blank line
+          grep "awk:" gists.md >> Resources/awk_gists.md # List the gists
+          sed -i "s/awk: //g" Resources/awk_gists.md # Remove the tag
+          # py
+          echo "# py gists" > Resources/py_gists.md # Heading
+          echo >> Resources/py_gists.md # Blank line
+          grep "py:" gists.md >> Resources/py_gists.md # List the gists
+          sed -i "s/py: //g" Resources/py_gists.md # Remove the tag
+          # f90
+          echo "# f90 gists" > Resources/f90_gists.md # Heading
+          echo >> Resources/f90_gists.md # Blank line
+          grep "f90:" gists.md >> Resources/f90_gists.md # List the gists
+          sed -i "s/f90: //g" Resources/f90_gists.md # Remove the tag
+          # md
+          echo "# md gists" > Resources/md_gists.md # Heading
+          echo >> Resources/md_gists.md # Blank line
+          grep "md:" gists.md >> Resources/md_gists.md # List the gists
+          sed -i "s/md: //g" Resources/md_gists.md # Remove the tag
+          # git
+          echo "# git gists" > Resources/git_gists.md # Heading
+          echo >> Resources/git_gists.md # Blank line
+          grep "git:" gists.md >> Resources/git_gists.md # List the gists
+          sed -i "s/git: //g" Resources/git_gists.md # Remove the tag
+          # aws
+          echo "# aws gists" > Resources/aws_gists.md # Heading
+          echo >> Resources/aws_gists.md # Blank line
+          grep "aws:" gists.md >> Resources/aws_gists.md # List the gists
+          sed -i "s/aws: //g" Resources/aws_gists.md # Remove the tag
+          # docker
+          echo "# docker gists" > Resources/docker_gists.md # Heading
+          echo >> Resources/docker_gists.md # Blank line
+          grep "docker:" gists.md >> Resources/docker_gists.md # List the gists
+          sed -i "s/docker: //g" Resources/docker_gists.md # Remove the tag
+          # julia
+          echo "# julia gists" > Resources/julia_gists.md # Heading
+          echo >> Resources/julia_gists.md # Blank line
+          grep "julia:" gists.md >> Resources/julia_gists.md # List the gists
+          sed -i "s/julia: //g" Resources/julia_gists.md # Remove the tag
+          # misc
+          echo "# misc gists" > Resources/misc_gists.md # Heading
+          echo >> Resources/misc_gists.md # Blank line
+          grep "misc:" gists.md >> Resources/misc_gists.md # List the gists
+          sed -i "s/misc: //g" Resources/misc_gists.md # Remove the tag
+          cut -d: -f1 gists.md | cut -c4- | sort | uniq # View tag names
+          rm gists.md url description publicgists.json
+          date > date.txt
+          git config --global user.email "mohammad.nilforooshan@lic.co.nz"
+          git config --global user.name "nilforooshan"
+          git add .
+          git commit -m "Auto-updated by ListGists's GitHub Actions"
+          # git push
