@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
       - name: List gists in markdown files
         run: |
-          yes 1 | head -n 50 > tmp
+          printf '1\n%.0s' {1..50} > tmp
           # j=1
           while [ `cat tmp | wc -l` == $many ]
           do
