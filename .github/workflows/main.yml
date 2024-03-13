@@ -20,7 +20,7 @@ jobs:
         run: |
           printf '1\n%.0s' {1..50} > tmp
           # j=1
-          while [ `cat tmp | wc -l` == $many ]
+          while [ `cat tmp | wc -l` == 50 ]
           do
               curl -s "https://api.github.com/users/nilforooshan/gists?&page=$j&per_page=50" > tmp.json
               cat tmp.json >> publicgists.json
