@@ -92,8 +92,13 @@ jobs:
           sed -i "s/misc: //g" Resources/misc_gists.md # Remove the tag
           cut -d: -f1 gists.md | cut -c4- | sort | uniq # View tag names
           rm tmp* gists.md url description publicgists.json
-          git config --global user.email "mohammad.nilforooshan@lic.co.nz"
-          git config --global user.name "nilforooshan"
-          git add .
-          git commit -m "Auto-updated by ListGists's GitHub Actions"
-          git push
+          if [ `git status | grep 'untracked\|modified\|deleted'| wc -l` == 0 ]
+          then
+              echo "No changes to commit!"
+          else
+              git config --global user.email "mohammad.nilforooshan@lic.co.nz"
+              git config --global user.name "nilforooshan"
+              git add .
+              git commit -m "Auto-updated by ListGists's GitHub Actions"
+              git push
+          fi
