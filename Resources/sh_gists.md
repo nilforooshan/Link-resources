@@ -1,5 +1,6 @@
 # sh gists
 
+* [Store a parameter in a file and read it as a variable](https://gist.github.com/nilforooshan/bd5441689afe23fef96834c8598f7b64)   
 * [Arithmetic operations](https://gist.github.com/nilforooshan/c8e676c42d62e8beb3057873387b4ec5)   
 * [Sort and remove repeated values](https://gist.github.com/nilforooshan/924949e2b37158e8660511dbec664497)   
 * [List the installed packages](https://gist.github.com/nilforooshan/e913e8c0d4d8afabe3101165f63e44ea)   
