@@ -1,5 +1,6 @@
 # R gists
 
+* [Three ways of extracting a data.table column as a vector](https://gist.github.com/nilforooshan/f54b367f9e8d170e58222e6e75be2b35)   
 * [Add a non-linear regression line to a scatterplot](https://gist.github.com/nilforooshan/6960a57e9683523f847ac985cb7c688e)   
 * [RCurl to read data from the web](https://gist.github.com/nilforooshan/1379921691b85c99008cacead18e344c)   
 * [Update installed R packages](https://gist.github.com/nilforooshan/a7762be5fa6338e9ad445121d83b0b8b)   
