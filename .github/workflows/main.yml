@@ -11,18 +11,28 @@ jobs:
   build-and-update:
     runs-on: ubuntu-latest
     env:
-      Ngist: 364 # NOTE: Update this!
+      j: 1
       GITHUB_TOKEN: ${{ secrets.SECRET_TOKEN }}
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v4
       - name: List gists in markdown files
         run: |
-          END=$(($Ngist/50+1))
-          for i in $(eval echo "{1..$END}")
+          yes 1 | head -n 50 > tmp
+          # j=1
+          while [ `cat tmp | wc -l` == $many ]
           do
-              curl -s "https://api.github.com/users/nilforooshan/gists?&page=$i&per_page=50" >> publicgists.json
+              curl -s "https://api.github.com/users/nilforooshan/gists?&page=$j&per_page=50" > tmp.json
+              cat tmp.json >> publicgists.json
+              grep repos_url tmp.json > tmp
+              j=$(($j + 1))
           done
+          rm tmp*
+          # END=$(($Ngist/50+1))
+          # for i in $(eval echo "{1..$END}")
+          # do
+          #     curl -s "https://api.github.com/users/nilforooshan/gists?&page=$i&per_page=50" >> publicgists.json
+          # done
           grep html_url    publicgists.json | sed -e 's/\"//g' -e 's/,//' -e 's/ //g' -e 's/html_url://' | sed "/nilforooshan$/d" > url
           grep description publicgists.json | sed -e 's/\"//g' -e 's/,//' -e 's/;//' -e 's/    description: //' > description
           paste -d';' description url | sed 's/;/](/' | sed 's/^/[/' | sed 's/$/)   /' | sed 's/^/* /' > gists.md
