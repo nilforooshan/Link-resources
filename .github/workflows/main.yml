@@ -3,7 +3,7 @@ name: Update the repository for new public gists
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - ".github/workflows/*"
 
