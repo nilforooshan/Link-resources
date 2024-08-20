@@ -1,5 +1,11 @@
 # R gists
 
+* [Export an R Jupyter notebook to RMD](https://gist.github.com/nilforooshan/06daba1a13459a94c7f616f1b8e478bb)   
+* [R function for MAF calculation](https://gist.github.com/nilforooshan/10c888c8e50375c4a2ed35bbf17cd21e)   
+* [Replace the upper triangle of a covariance matrix with a correlation matrix](https://gist.github.com/nilforooshan/c0877d8c4ee5a25b8963cdbefb45067f)   
+* [Install R package arrow on a Linux server](https://gist.github.com/nilforooshan/c40819b2bcdc33a88f82f72a8877c7e7)   
+* [Turn a vector to a symmetric matrix (row-wise) - specially useful for APEX](https://gist.github.com/nilforooshan/47a0490745fdb21c502d1502bd56a856)   
+* [Get colClasses of a data.frame](https://gist.github.com/nilforooshan/117bcbb3023d4ccb8f57d0afaa67179d)   
 * [R function for converting correlations and variances to covariances](https://gist.github.com/nilforooshan/8368d962659a9cb79e877e3b6775332f)   
 * [Three ways of extracting a data.table column as a vector](https://gist.github.com/nilforooshan/f54b367f9e8d170e58222e6e75be2b35)   
 * [Add a non-linear regression line to a scatterplot](https://gist.github.com/nilforooshan/6960a57e9683523f847ac985cb7c688e)   
@@ -13,7 +19,6 @@
 * [Fill a matrix with indices and values of a data.frame](https://gist.github.com/nilforooshan/95ae3aab431cd54237a64f0c671db960)   
 * [Installing R on Jupyter Notebool](https://gist.github.com/nilforooshan/a34349559a22b916a12d609d655e4df1)   
 * [Define \notin\ (negate %in%) operator](https://gist.github.com/nilforooshan/ee47ae23b5d9bf51b9ebbca230e6a00a)   
-* [Convert allele frequencies to minor allele frequencies](https://gist.github.com/nilforooshan/9eca757e4e90408f1b97cd7f4bba809d)   
 * [User Manual from Jonathan's repository](https://gist.github.com/nilforooshan/8758f7cdc37ca8cc8a274dee67fbc26a)   
 * [Create an incidence matrix](https://gist.github.com/nilforooshan/3ec9c2117ae6288cf8201cc30f3cc5ce)   
 * [Drop columns by name in a data.table](https://gist.github.com/nilforooshan/3b6e95f90f0e5c04b5455e5d05cec007)   

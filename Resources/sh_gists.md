@@ -1,5 +1,7 @@
 # sh gists
 
+* [Loop Through Array Values](https://gist.github.com/nilforooshan/3710898a890ae6de3342675e08f1aac2)   
+* [Repeat a string \n\ times](https://gist.github.com/nilforooshan/504e53f48c8fbe4853f0ecd310b6d4a3)   
 * [Store a parameter in a file and read it as a variable](https://gist.github.com/nilforooshan/bd5441689afe23fef96834c8598f7b64)   
 * [Arithmetic operations](https://gist.github.com/nilforooshan/c8e676c42d62e8beb3057873387b4ec5)   
 * [Sort and remove repeated values](https://gist.github.com/nilforooshan/924949e2b37158e8660511dbec664497)   
