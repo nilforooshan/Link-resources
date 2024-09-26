@@ -9,7 +9,6 @@ I keep linked files and the list of my Gists here, in this repository.
 - [Docker](https://github.com/nilforooshan/Link-resources/blob/master/Resources/docker_gists.md)
 - [Fortran](https://github.com/nilforooshan/Link-resources/blob/master/Resources/f90_gists.md)
 - [Git](https://github.com/nilforooshan/Link-resources/blob/master/Resources/git_gists.md)
-- [Markdown](https://github.com/nilforooshan/Link-resources/blob/master/Resources/md_gists.md)
 - [Python](https://github.com/nilforooshan/Link-resources/blob/master/Resources/py_gists.md)
 - [R](https://github.com/nilforooshan/Link-resources/blob/master/Resources/R_gists.md)
 - [Sed](https://github.com/nilforooshan/Link-resources/blob/master/Resources/sed_gists.md)
