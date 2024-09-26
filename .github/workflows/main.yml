@@ -35,67 +35,67 @@ jobs:
           echo >> Resources/R_gists.md # Blank line
           grep "R:" gists.md >> Resources/R_gists.md # List the gists
           sed -i "s/R: //g" Resources/R_gists.md # Remove the tag
-          sed -i 's/github.com\//io\/@/g' R_gists.md # gist.io
+          sed -i 's/github.com\//io\/@/g' Resources/R_gists.md # gist.io
           # sh
           echo "# sh gists" > Resources/sh_gists.md # Heading
           echo >> Resources/sh_gists.md # Blank line
           grep "sh:" gists.md >> Resources/sh_gists.md # List the gists
           sed -i "s/sh: //g" Resources/sh_gists.md # Remove the tag
-          sed -i 's/github.com\//io\/@/g' sh_gists.md # gist.io
+          sed -i 's/github.com\//io\/@/g' Resources/sh_gists.md # gist.io
           # sed
           echo "# sed gists" > Resources/sed_gists.md # Heading
           echo >> Resources/sed_gists.md # Blank line
           grep "sed:" gists.md >> Resources/sed_gists.md # List the gists
           sed -i "s/sed: //g" Resources/sed_gists.md # Remove the tag
-          sed -i 's/github.com\//io\/@/g' sed_gists.md # gist.io
+          sed -i 's/github.com\//io\/@/g' Resources/sed_gists.md # gist.io
           # awk
           echo "# awk gists" > Resources/awk_gists.md # Heading
           echo >> Resources/awk_gists.md # Blank line
           grep "awk:" gists.md >> Resources/awk_gists.md # List the gists
           sed -i "s/awk: //g" Resources/awk_gists.md # Remove the tag
-          sed -i 's/github.com\//io\/@/g' awk_gists.md # gist.io
+          sed -i 's/github.com\//io\/@/g' Resources/awk_gists.md # gist.io
           # py
           echo "# py gists" > Resources/py_gists.md # Heading
           echo >> Resources/py_gists.md # Blank line
           grep "py:" gists.md >> Resources/py_gists.md # List the gists
           sed -i "s/py: //g" Resources/py_gists.md # Remove the tag
-          sed -i 's/github.com\//io\/@/g' py_gists.md # gist.io
+          sed -i 's/github.com\//io\/@/g' Resources/py_gists.md # gist.io
           # f90
           echo "# f90 gists" > Resources/f90_gists.md # Heading
           echo >> Resources/f90_gists.md # Blank line
           grep "f90:" gists.md >> Resources/f90_gists.md # List the gists
           sed -i "s/f90: //g" Resources/f90_gists.md # Remove the tag
-          sed -i 's/github.com\//io\/@/g' f90_gists.md # gist.io
+          sed -i 's/github.com\//io\/@/g' Resources/f90_gists.md # gist.io
           # git
           echo "# git gists" > Resources/git_gists.md # Heading
           echo >> Resources/git_gists.md # Blank line
           grep "git:" gists.md >> Resources/git_gists.md # List the gists
           sed -i "s/git: //g" Resources/git_gists.md # Remove the tag
-          sed -i 's/github.com\//io\/@/g' git_gists.md # gist.io
+          sed -i 's/github.com\//io\/@/g' Resources/git_gists.md # gist.io
           # aws
           echo "# aws gists" > Resources/aws_gists.md # Heading
           echo >> Resources/aws_gists.md # Blank line
           grep "aws:" gists.md >> Resources/aws_gists.md # List the gists
           sed -i "s/aws: //g" Resources/aws_gists.md # Remove the tag
-          sed -i 's/github.com\//io\/@/g' aws_gists.md # gist.io
+          sed -i 's/github.com\//io\/@/g' Resources/aws_gists.md # gist.io
           # docker
           echo "# docker gists" > Resources/docker_gists.md # Heading
           echo >> Resources/docker_gists.md # Blank line
           grep "docker:" gists.md >> Resources/docker_gists.md # List the gists
           sed -i "s/docker: //g" Resources/docker_gists.md # Remove the tag
-          sed -i 's/github.com\//io\/@/g' docker_gists.md # gist.io
+          sed -i 's/github.com\//io\/@/g' Resources/docker_gists.md # gist.io
           # julia
           echo "# julia gists" > Resources/julia_gists.md # Heading
           echo >> Resources/julia_gists.md # Blank line
           grep "julia:" gists.md >> Resources/julia_gists.md # List the gists
           sed -i "s/julia: //g" Resources/julia_gists.md # Remove the tag
-          sed -i 's/github.com\//io\/@/g' julia_gists.md # gist.io
+          sed -i 's/github.com\//io\/@/g' Resources/julia_gists.md # gist.io
           # misc
           echo "# misc gists" > Resources/misc_gists.md # Heading
           echo >> Resources/misc_gists.md # Blank line
           grep "misc:" gists.md >> Resources/misc_gists.md # List the gists
           sed -i "s/misc: //g" Resources/misc_gists.md # Remove the tag
-          sed -i 's/github.com\//io\/@/g' misc_gists.md # gist.io
+          sed -i 's/github.com\//io\/@/g' Resources/misc_gists.md # gist.io
           cut -d: -f1 gists.md | cut -c4- | sort | uniq # View tag names
           rm tmp* gists.md url description publicgists.json
           if [ `git status | grep 'untracked\|modified\|deleted'| wc -l` == 0 ]
