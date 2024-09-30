@@ -95,6 +95,13 @@ jobs:
           grep "misc:" gists.md >> Resources/misc_gists.md # List the gists
           sed -i "s/misc: //g" Resources/misc_gists.md # Remove the tag
           sed -i 's/github.com\//io\/@/g' Resources/misc_gists.md # gist.io
+          # post
+          echo "# post gists" > Resources/post_gists.md # Heading
+          echo >> Resources/post_gists.md # Blank line
+          grep "post:" gists.md >> Resources/post_gists.md # List the gists
+          sed -i "s/post: //g" Resources/post_gists.md # Remove the tag
+          sed -i 's/github.com\//io\/@/g' Resources/post_gists.md # gist.io
+          #
           cut -d: -f1 gists.md | cut -c4- | sort | uniq # View tag names
           rm tmp* gists.md url description publicgists.json
           if [ `git status | grep 'untracked\|modified\|deleted'| wc -l` == 0 ]
