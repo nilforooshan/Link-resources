@@ -19,7 +19,7 @@
 * [Delete lines by line numbers](https://gist.io/@nilforooshan/945d03bd1ed264d223a4ff3af8f6030d)   
 * [Get odd and even lines](https://gist.io/@nilforooshan/2a7c1687c3fce246197290791cd61901)   
 * [find & replace](https://gist.io/@nilforooshan/fe6751bbec1e55c1137291f67016b6e6)   
-* [Delete the last line from a file](https://gist.io/@nilforooshan/a19529701edabeac385c7b6857787795)   
+* [Delete the last line of a file](https://gist.io/@nilforooshan/a19529701edabeac385c7b6857787795)   
 * [Insert a line to the beginning of a file](https://gist.io/@nilforooshan/92099da594e26500be2b009758baf34f)   
 * [See a line by number](https://gist.io/@nilforooshan/936ab8de0a73f084c9161ea154ba1022)   
 * [Remove empty/blank lines from a file](https://gist.io/@nilforooshan/552877beaab052495a8e44d89440a4ab)   

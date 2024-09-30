@@ -1,8 +1,6 @@
 # py gists
 
 * [Install PIP on Ubuntu](https://gist.io/@nilforooshan/d139fec622edba8c800cfb22b92123ae)   
-* [Polars Tutorial2](https://gist.io/@nilforooshan/77f7fd0bbf8332460434045829777b24)   
-* [Polars Tutorial](https://gist.io/@nilforooshan/4306bdc612ac6308e9ab844eeba594d5)   
 * [Run Python command in Bash](https://gist.io/@nilforooshan/1e107b2ac7ff125cc1d5d2671e2dcbee)   
 * [OLS](https://gist.io/@nilforooshan/de0c24c42a498313f2e9aa2cf35e3222)   
 * [Select rows of a DataFrame that are in a list](https://gist.io/@nilforooshan/598ffd4e3e64fd44a27d94720a9ef6af)   
