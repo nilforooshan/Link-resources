@@ -103,6 +103,7 @@
 * [Drop the first or the last element(s) of text strings](https://gist.io/@nilforooshan/30986db0f1bf3aee681e14f2253d4f1f)   
 * [Renumber an array sequentially from 1:n](https://gist.io/@nilforooshan/4089083242d041e5627ce8d0937923c2)   
 * [Convert an upper.tri or a lower.tri data.frame to a full matrix](https://gist.io/@nilforooshan/3bb98f4a81bcd27a8bdd046cfc0e7d95)   
+* [RMarkdown cheat sheet](https://gist.io/@nilforooshan/2bd9bbb632e6f79ca79128e5b981c006)   
 * [Re-order a square matrix](https://gist.io/@nilforooshan/e63cd36dccd14ea920f4a8c4d2bd3d49)   
 * [Find prime numbers in an array](https://gist.io/@nilforooshan/8be3c036ada3f54315572e6dc160048e)   
 * [Print lower.tri-diag (with/without diags) of a matrix](https://gist.io/@nilforooshan/5bcc32de298296b59ecbe9b6acae017f)   
