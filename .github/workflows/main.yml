@@ -65,12 +65,6 @@ jobs:
           echo >> Resources/f90_gists.md # Blank line
           grep "f90:" gists.md >> Resources/f90_gists.md # List the gists
           sed -i "s/f90: //g" Resources/f90_gists.md # Remove the tag
-          # git
-          echo "# git gists" > Resources/git_gists.md # Heading
-          echo >> Resources/git_gists.md # Blank line
-          grep "git:" gists.md >> Resources/git_gists.md # List the gists
-          sed -i "s/git: //g" Resources/git_gists.md # Remove the tag
-          sed -i 's/github.com\//io\/@/g' Resources/git_gists.md # gist.io
           # aws
           echo "# aws gists" > Resources/aws_gists.md # Heading
           echo >> Resources/aws_gists.md # Blank line
