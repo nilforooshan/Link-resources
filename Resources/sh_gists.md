@@ -1,6 +1,6 @@
 # sh gists
 
-* [sh:Loop through array values](https://gist.io/@nilforooshan/3710898a890ae6de3342675e08f1aac2)   
+* [Loop through array values](https://gist.io/@nilforooshan/3710898a890ae6de3342675e08f1aac2)   
 * [Repeat a string n times](https://gist.io/@nilforooshan/504e53f48c8fbe4853f0ecd310b6d4a3)   
 * [Store a parameter in a file and read it as a variable](https://gist.io/@nilforooshan/bd5441689afe23fef96834c8598f7b64)   
 * [Arithmetic operations](https://gist.io/@nilforooshan/c8e676c42d62e8beb3057873387b4ec5)   
@@ -89,11 +89,9 @@
 * [Translate Text to Morse](https://gist.io/@nilforooshan/bf2cdfa014c496c18d50d05b6295e20d)   
 * [Translate Morse to Text](https://gist.io/@nilforooshan/1a3c9d88b706adc0d5fca4b9578a27b1)   
 * [cut examples](https://gist.io/@nilforooshan/578ad267505ef4dfc0cf2b81a6d06b33)   
-* [Auto-rename files](https://gist.io/@nilforooshan/ce43fb2b889fbc8e635a1dc79089421e)   
 * [Reorder positions in FWF files](https://gist.io/@nilforooshan/9fff7b47124a830f1dafb1c52995d689)   
 * [zip & unzip](https://gist.io/@nilforooshan/f0bbd01e116895673f52cb107cf4d836)   
 * [Check whether files exist and not empty](https://gist.io/@nilforooshan/ce8473b4406a2a7b08510e10620cf59f)   
 * [Find different lines in two files](https://gist.io/@nilforooshan/cc03f7d9793e1b0e1ad03b6b56d959ec)   
 * [chmod and permission](https://gist.io/@nilforooshan/6ffb6d6062bdb867d7cb385ff15686e6)   
-* [Batch file renaming](https://gist.io/@nilforooshan/8830ca845c0daab3e0450138df8eabfd)   
 * [swap file](https://gist.io/@nilforooshan/254767409a8b979eb23a5ca343a9b48c)   
